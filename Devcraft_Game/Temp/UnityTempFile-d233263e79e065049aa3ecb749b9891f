@@ -162,9 +162,18 @@
 -define:UNITY_TEAM_LICENSE
 -define:ENABLE_VSTU
 "Assets/Scripts/Camera Scripts/CameraFollow.cs"
+"Assets/Scripts/Manageris Script/AudioManager.cs"
+"Assets/Scripts/Manageris Script/AxisTouchButton.cs"
+"Assets/Scripts/Manageris Script/ButtonHandler.cs"
+"Assets/Scripts/Manageris Script/CharacterControl.cs"
 "Assets/Scripts/Manageris Script/Chunk.cs"
+"Assets/Scripts/Manageris Script/CrossPlatformInputManager.cs"
+"Assets/Scripts/Manageris Script/GameManager.cs"
+"Assets/Scripts/Manageris Script/InputAxisScrollbar.cs"
+"Assets/Scripts/Manageris Script/Joystick.cs"
 "Assets/Scripts/Manageris Script/Noise.cs"
 "Assets/Scripts/Manageris Script/World.cs"
+"Assets/Scripts/Singleton Script/Singleton.cs"
 -r:"C:\Program Files\Unity\Hub\Editor\2017.4.32f1\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2017.4.32f1\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll"
 -r:"C:\Program Files\Unity\Hub\Editor\2017.4.32f1\Editor\Data\Mono\lib\mono\unity\UnityScript.dll"
